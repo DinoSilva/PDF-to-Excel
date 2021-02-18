@@ -1,10 +1,3 @@
-# campos = {"nome" : "Nº Contrato", "text_init":"Cliente: Nº Contrato: ",
-#           "text_end":"\n\nDADOS DO CONTRATO","excel_column":"A"}
-
-# campos += {"periodo_de_facturação_init" : "Nº Contrato", "text_init":"Cliente: Nº Contrato: ",
-#           "text_end":"\n\nDADOS DO CONTRATO","excel_column":"A"}
-
-
 from os import listdir
 from tika import parser
 from openpyxl import load_workbook
