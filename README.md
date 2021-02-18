@@ -1,7 +1,7 @@
 # PDF-to-Excel
 Simple script converts PDF to text to XLS
 
-This was a very basic proof of concept, basicly to prove my wife it could be done. 
+This was a very basic proof of concept, to prove my wife it could be done.
 
 1 - The script lists all files in a given directory (be sure to have only PDF files in there)
 
